@@ -1,6 +1,6 @@
 # Quiz Time! - A Dynamic Web Quiz
 
-### 🇬🇧 English
+### English
 
 A responsive and interactive quiz app built with **vanilla JavaScript, HTML5, and CSS3**. This project dynamically loads questions, provides instant feedback, and tracks user scores, demonstrating core front-end skills without any frameworks.
 
@@ -17,7 +17,7 @@ A responsive and interactive quiz app built with **vanilla JavaScript, HTML5, an
 
 ---
 
-### 🇧🇷 Português
+### Português
 
 Um quiz interativo e responsivo construído com **JavaScript puro, HTML5 e CSS3**. O projeto carrega perguntas dinamicamente, oferece feedback instantâneo e acompanha a pontuação, demonstrando habilidades essenciais de front-end sem uso de frameworks.
 
